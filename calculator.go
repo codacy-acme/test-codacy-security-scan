@@ -23,8 +23,8 @@ func sumNum(num1 int, num2 int) int {
 //to test an issue
 func credential() {
 	username := "admin"
-    var password = "f62e5bcda4fae4f82370da0c6f20697b8f8447ef"
-    fmt.Println("Doing something with: ", username, password)
+    var pwd = "f62e5bcda4fae4f82370da0c6f20697b8f8447ef"
+    fmt.Println("Doing something with: ", username, pwd)
 }
 
 //to test the client-side tool DeadCode
